@@ -1,8 +1,5 @@
 # Exploring-the-NYC-Airbnb-Market
 
-Project on DataCamp.
-
-
 NYC is one of the most-visited cities in the world. As a result, there are many Airbnb listings to meet the high demand for temporary lodging for anywhere between a few nights to many months.
 
 This project involved data importing and cleaning skills to uncover insights into the Airbnb market in New York City. 
