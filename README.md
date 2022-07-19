@@ -1,5 +1,7 @@
 # Exploring-the-NYC-Airbnb-Market
 
+Project on DataCamp.
+
 
 This project involved data importing and cleaning skills to uncover insights into the Airbnb market in New York City. 
 
