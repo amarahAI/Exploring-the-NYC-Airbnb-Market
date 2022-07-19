@@ -3,6 +3,8 @@
 Project on DataCamp.
 
 
+NYC is one of the most-visited cities in the world. As a result, there are many Airbnb listings to meet the high demand for temporary lodging for anywhere between a few nights to many months.
+
 This project involved data importing and cleaning skills to uncover insights into the Airbnb market in New York City. 
 
 Our goals are to convert untidy data into appropriate formats to analyze, and answer key questions including:
